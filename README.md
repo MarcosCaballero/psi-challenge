@@ -1,2 +1,4 @@
-¨PSI CHALLENGE
-  Calculadora de Indice de Masa Corporal (IMC)
+PSI CHALLENGE
+
+
+Calculadora de Indice de Masa Corporal (IMC)
